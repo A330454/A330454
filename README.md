@@ -11,9 +11,10 @@ Focused on designing secure, scalable, and robust digital products — from back
 
 ---
 
+
 ## 🧩 Web Development Stack
 
-## 🤖 AI & Automation Tools
+### 🤖 AI & Automation Tools
 
 <span>
   <img src="https://img.shields.io/badge/OpenAI%20API-%23172B4D.svg?style=flat&logo=openai&logoColor=white"/>
@@ -42,7 +43,7 @@ Focused on designing secure, scalable, and robust digital products — from back
   <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens"/>
 </span>
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
 <span>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
@@ -55,7 +56,7 @@ Focused on designing secure, scalable, and robust digital products — from back
   <img src="https://img.shields.io/badge/bash-%23121011.svg?style=flat"/>
 </span>
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <span>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
@@ -67,7 +68,7 @@ Focused on designing secure, scalable, and robust digital products — from back
   <img src="https://img.shields.io/badge/SSL-%23232F3E.svg?style=flat"/>
 </span>
 
-## 📊 Data Science & Visualization
+### 📊 Data Science & Visualization
 
 <span>
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat"/>
@@ -76,14 +77,14 @@ Focused on designing secure, scalable, and robust digital products — from back
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat"/>
 </span>
 
-## 🧪 API Development & Testing
+### 🧪 API Development & Testing
 
 <span>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat"/>
   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=flat"/>
 </span>
 
-## 🎨 UX & UI
+### 🎨 UX & UI
 
 <span>
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"/>
